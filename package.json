@@ -1,0 +1,16 @@
+{
+  "name": "css-min",
+  "version": "1.0.0",
+  "description": "Minify css during build for smaller deployment packages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "minify",
+    "css",
+    "build"
+  ],
+  "author": "tkov.dev",
+  "license": "MIT"
+}
