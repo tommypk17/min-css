@@ -13,4 +13,4 @@
 To get started, after installation, the postinstall process should have setup a new script in the parent package.json file. This is primarily for ease of use and to reduce complex commands.
 While inside the root of the project that needs css file minification, run the code below. This will create a brand new file with the same location and name, but with a .min.css extension.
 </p>
-<code>npm run css-min -- --path=./path/to/file.css</code>
+<code>npm run min-css -- --path=./path/to/file.css</code>
