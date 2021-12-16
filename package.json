@@ -1,5 +1,5 @@
 {
-  "name": "css-min",
+  "name": "min-css",
   "version": "1.0.0",
   "description": "Minify css during build for smaller deployment packages",
   "main": "index.js",
