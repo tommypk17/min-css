@@ -4,6 +4,7 @@
   "description": "Minify css during build for smaller deployment packages",
   "main": "index.js",
   "scripts": {
+    "postinstall": "echo Package Installed Test!",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
