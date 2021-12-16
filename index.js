@@ -8,6 +8,7 @@ const minify = () => {
             let compressed = removeSpaces(removeNewLines(removeComments(contents)));
             let success = writeFile(minifyFilePath(path), compressed);
             if(success){
+                console.log(path + " minified!")
                 return success;
             }
         }else{
